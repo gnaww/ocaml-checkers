@@ -1,0 +1,7 @@
+#require "oUnit";;
+#require "ANSITerminal";;
+#directory "_build";;
+#load "command.cmo";;
+#load "tree.cmo";;
+#load "state.cmo";;
+#load "cpu.cmo";;
